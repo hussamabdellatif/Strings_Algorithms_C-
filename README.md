@@ -1,6 +1,6 @@
 # Strings_algorithms
 <b> Questions are from LeetCode</b>
-Algorithms for Strings written in C++
+<br><b>Algorithms for Strings written by me in C++</b>
 <br>************************************************************<br>
 <br><h1>File Summary</h1>
  
